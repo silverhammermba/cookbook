@@ -9,3 +9,9 @@ the recipe, and further enhance it based on my experience.
 * I dislike vague or inconsistent recipes. I like finding concrete methods or
   tests for ensuring a good result
 * I generally suck at cooking, so please add issues if you notice any
+
+=TODO=
+
+* Everything is in DOS format (boo) since I started this on Windows using Dropbox
+* Should use markdown for recipes to allow for nice online formatting
+* Add more TODOs to imperfect recipes

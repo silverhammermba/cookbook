@@ -15,3 +15,8 @@
 3. Meanwhile, place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off.
 
 4.Bake 15 minutes at 425 degrees F (220 degrees C). Reduce the temperature to 350 degrees F (175 degrees C), and continue baking for 35 to 45 minutes.
+
+TODO
+
+The bottom crust sometimes doesn't bake well (especially in the middle) and can
+end up soggy.
