@@ -17,3 +17,4 @@ TODO
 * A lot of recipes are in DOS format (boo) since I started this on Windows using Dropbox
 * Should use markdown for recipes to allow for nice online formatting
 * Add more TODOs to imperfect recipes
+* Maybe add recipe category subdirectories
