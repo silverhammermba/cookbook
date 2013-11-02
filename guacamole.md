@@ -9,7 +9,6 @@ Ingredients
 * 1/2 jalapeno pepper, seeded and minced
 * 2 roma tomatoes, seeded and diced
 * 1 tbsp chopped cilantro
-* 1 clove garlic, minced
 
 Directions
 ----------
