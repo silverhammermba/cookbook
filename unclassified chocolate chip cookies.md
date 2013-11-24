@@ -1,7 +1,7 @@
 The refrigeration time is absolutely crucial. They'd probably be good without
 it, but they won't be great like they will if you follow the recipe as written.
 
-Adapted from the Chocolate Chip Cookies recipe adapted from [Jacques Torres][1].
+Adapted from the [Chocolate Chip Cookies recipe][1] adapted from Jacques Torres.
 
 [1]: http://www.nytimes.com/2008/07/09/dining/091crex.html
 
