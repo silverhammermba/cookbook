@@ -1,5 +1,5 @@
 Ingredients
------------
+===========
 * 3 avocados, halved, seeded, and scooped
 * 1 lime worth of juice
 * 1/2 tsp salt
@@ -11,6 +11,6 @@ Ingredients
 * 1 tbsp chopped cilantro
 
 Directions
-----------
+==========
 1. In a medium mixing bowl, add avocados, lime juice, salt, cumin, and cayenne. Mash.
 2. Fold in the rest of the ingredients

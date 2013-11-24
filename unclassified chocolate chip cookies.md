@@ -10,7 +10,7 @@ Adapted from the [Chocolate Chip Cookies recipe][1] adapted from Jacques Torres.
 * Yield: 32-36 cookies
 
 Ingredients
------------
+===========
 
 * 2 cups minus 2 tbsp (8.5 ounces) cake flour
 * 1 2/3 cups (8.5 ounces) bread flour
@@ -25,7 +25,7 @@ Ingredients
 * 2 bags (24 ounces total) chocolate chips
 
 Directions
-----------
+==========
 
 1. Sift flours, baking soda, baking powder, and salt into a bowl. Set aside.
 

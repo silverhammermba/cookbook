@@ -2,29 +2,32 @@ This is my old roommate's mom's cheesecake recipe, and it's one of the best
 I've ever had!
 
 Ingredients
------------
+===========
 
-##Crust
+Crust
+-----
 
 * 1/4 c butter
 * 1/4 c sugar
 * 1/2 c graham cracker crumbs (about 18 or 1 package)
 
-##Filling
+Filling
+-------
 
 * 12 oz cream cheese (room temperature)
 * 3/4 c sugar
 * 3 eggs
 * 2 tsp vanilla
 
-##Topping
+Topping
+-------
 
 * 1 c sour cream
 * 1/4 c sugar
 * 1 tsp vanilla
 
 Directions
-----------
+==========
 
 Melt butter and combine with other crust ingredients. Press into the bottom and sides
 of a 9" glass(?) pie pan. Bake at 300 F for 10 minutes.

@@ -1,5 +1,5 @@
 Ingredients
------------
+===========
 * 1 cup cornmeal
 * 1 cup flour
 * 1 tbsp baking powder
@@ -13,7 +13,7 @@ Ingredients
 yields 12 muffins
 
 Directions
-----------
+==========
 
 1. Preheat oven to 400 degrees
 2. Mix dry ingredients in large bowl
