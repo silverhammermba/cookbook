@@ -18,3 +18,4 @@ TODO
 * Should use markdown for recipes to allow for nice online formatting
 * Add more TODOs to imperfect recipes
 * Maybe add recipe category subdirectories
+* Add markdown recipe templates
