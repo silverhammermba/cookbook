@@ -1,12 +1,12 @@
 Ingredients
 ===========
 * 3 avocados, halved, seeded, and scooped
-* 1 lime worth of juice
+* 2 limes worth of juice
 * 1/2 tsp salt
 * 1/2 tsp cumin
 * 1/2 tsp cayenne
 * 1/2 medium onion, diced
-* 1/2 jalapeno pepper, seeded and minced
+* 1 jalapeno pepper, seeded and minced
 * 2 roma tomatoes, seeded and diced
 * 1 tbsp chopped cilantro
 
