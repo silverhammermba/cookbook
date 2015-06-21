@@ -9,12 +9,12 @@ Crust
 
 * 1/4 c butter
 * 1/4 c sugar
-* 1/2 c graham cracker crumbs (about 18 or 1 package)
+* 1 1/2 c graham cracker crumbs (about 18 or 1 package)
 
 Filling
 -------
 
-* 12 oz cream cheese (room temperature)
+* 12 oz cream cheese (room temperature, **not** low-fat)
 * 3/4 c sugar
 * 3 eggs
 * 2 tsp vanilla
@@ -22,7 +22,7 @@ Filling
 Topping
 -------
 
-* 1 c sour cream
+* 1 c sour cream (**not** low-fat)
 * 1/4 c sugar
 * 1 tsp vanilla
 
