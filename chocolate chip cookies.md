@@ -1,13 +1,13 @@
 Ingredients
 -----------
 
-* 1 cup botter, softened
+* 1 cup butter, softened
 * 1/2 cup white sugar
 * 1.5 cups packed brown sugar
 * 2 eggs, room temperature
 * 1 tsp vanilla
 * 3 cups flour
-* 2/3 tsp baking powder
+* 2/3 tsp baking powder (3 tsp?)
 * 1/2 tsp salt
 * 2 cups chocolate chips
 * 1 cup chopped walnuts
@@ -24,6 +24,8 @@ Recipe
 7. Stir in chocolate chips and nuts
 8. Drop dough in large spoonfulls onto ungreased pans and bake for 10 minutes
 9. Let sit 2 minutes before moving cookies to cooling rack
+
+Makes 4 dozen cookies.
 
 TODO
 ----
