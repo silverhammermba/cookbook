@@ -5,9 +5,10 @@ Ingredients
 * 1/2 cup white sugar
 * 1.5 cups packed brown sugar
 * 2 eggs, room temperature
-* 1 tsp vanilla
+* 2 tsp vanilla
 * 3 cups flour
-* 2/3 tsp baking powder (3 tsp?)
+* 1 tsp baking soda
+* 2 tsp hot water
 * 1/2 tsp salt
 * 2 cups chocolate chips
 * 1 cup chopped walnuts
@@ -16,19 +17,12 @@ Recipe
 ------
 
 1. Preheat oven to 350 degrees F
-2. Cream the butter in a mixer
-3. Mix in white and brown sugar until smooth
-4. Beat in eggs one at a time
-5. Mix in vanilla
-6. Mix in baking powder, salt, and flour
-7. Stir in chocolate chips and nuts
-8. Drop dough in large spoonfulls onto ungreased pans and bake for 10 minutes
-9. Let sit 2 minutes before moving cookies to cooling rack
+2. Cream the butter and white and brown sugar in a mixer
+3. Beat in eggs one at a time
+4. Mix in vanilla
+5. Dissolve baking soda in the hot water and mix in along with salt
+6. Mix in the flour, chocolate chips, and nuts
+7. Drop dough in flattened balls using a cookie dough scoop onto ungreased pans and bake for 11 minutes
+8. Let sit 2 minutes before moving cookies to cooling rack
 
-Makes 4 dozen cookies.
-
-TODO
-----
-
-The cookies do not spread out very much when baked, so you may have to squish
-the dough down when putting it on the pan.
+Makes 7 dozen cookies.
