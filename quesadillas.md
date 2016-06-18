@@ -11,5 +11,5 @@ Directions
 ----------
 1. Toss together beans, corn, cheese, and salsa and spoon onto the tortillas,
    fold in half, and brush lightly with oil on both sides.
-2. Bake in preheated 350 degree oven for 10-15 minutes, flipping over half-way
+2. Bake in preheated 350 degree oven for 20 minutes, flipping over half-way
    through the baking time.
