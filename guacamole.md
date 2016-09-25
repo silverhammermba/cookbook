@@ -14,3 +14,5 @@ Directions
 ==========
 1. In a medium mixing bowl, add avocados, lime juice, salt, cumin, and cayenne. Mash.
 2. Fold in the rest of the ingredients
+
+Makes 1qt of gaucamole.
