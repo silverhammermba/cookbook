@@ -19,17 +19,17 @@
 
 ### Ingredients ###
 
-* 2 lbs potatoes, peeled and quatered
+* 2 lbs unpeeled potatoes, quatered
 * 4 tbsp butter
 * 1 cup milk
-* 16 cloves garlic
+* 16 cloves garlic, minced
 * salt
 * pepper
 
 ### Recipe ###
 
-1. Bring a pot of salted water to a boil. Add potatoes and garlic and cook until
-   firm yet tender, about 15 minutes. Drain.
+1. Bring a pot of salted water to a boil. Add potatoes and cook until firm yet
+   tender, about 15 minutes. Drain.
 2. Melt the butter in the milk in a small sauce pan. Slowly mash the mixture
-   into the potatoes.
+   into the potatoes along with the garlic.
 3. Season with salt and pepper
