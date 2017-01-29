@@ -8,15 +8,15 @@
 * ¼ cup raisins
 * ¼ cup roasted almonds, chopped
 * ½ cup Greek yogurt
+* cilantro (for garnish)
 
-### Quantities unknown ###
+### Quantities estimated ###
 
-* smoked paprika
-* cumin
-* cinnamon
-* ground ginger
-* cayenne pepper
-* cilantro
+* 1 tsp smoked paprika
+* 1 tbsp cumin
+* 1 tsp cinnamon
+* 1 tsp ground ginger
+* ½ tsp cayenne pepper
 
 ## Instructions ##
 

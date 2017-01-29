@@ -6,9 +6,12 @@
 * ½ cup Greek yogurt
 * 1 tsp grated horseradish (optional)
 
-### Unknown quantities ###
+### Quantities estimated ###
 
-* flour
+* 1/4 cup flour
+
+Spices totalling maybe 1 tbsp?
+
 * coriander
 * smoked paprika
 * sumac

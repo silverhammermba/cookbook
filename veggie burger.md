@@ -5,15 +5,17 @@
 * 1 carrot, grated
 * 2 burger patties (Hodo soy tofu or beef or whatever)
 * 2 whole wheat buns
+* sunflower sprouts (enough to generously top the burgers)
 
-### Quantities unknown ###
+### Quantities estimated ###
 
-* sesame oil
-* rice vinegar
 * mayonnaise
-* siracha
-* brown sugar
-* sunflower sprouts
+* Sriracha (about 1/3 as much as mayo)
+* brown sugar (about 1/3 as much as Sriracha)
+
+* 1 tbsp sesame oil
+* 2 tsp rice vinegar
+* 1 tsp brown sugar
 
 ## Recipe ##
 

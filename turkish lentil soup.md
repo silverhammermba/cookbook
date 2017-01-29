@@ -10,14 +10,16 @@
 * ¾ cup dry red lentils
 * ½ cup Greek yogurt
 * olive oil
+* mint, coarsely chopped (garnish)
 
-### Quantities unknown ###
+### Quantities estimated ###
+
+Spices totalling about 1 tbsp in equal proportions?
 
 * fennel seeds
 * coriander
 * cumin
 * cinnamon
-* mint, coarsely chopped
 
 ## Recipe ##
 
