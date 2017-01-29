@@ -2,7 +2,7 @@
 
 * 1 pound sweet potatoes, peeled, grated, rinsed, and dried
 * 3 scallions, thinly sliced
-* 2 pasture-raised organic eggs
+* 2 eggs
 * ½ cup Greek yogurt
 * 1 tsp grated horseradish (optional)
 

@@ -20,8 +20,8 @@
 
 ## Instructions ##
 
-1. Rinse the quinoa and combine with 1 cup salted water in a pot. Bring to boil,
-   then simmer covered for 15-20 minutes. Fluff with a fork.
+1. Rinse the quinoa and add to 1 cup salted water in a pot. Bring to boil, then
+   simmer covered for 15-20 minutes. Fluff with a fork.
 2. Cut the carrots into bite-sized pieces, chop
 3. In a large frying pan over medium-high heat, warm 1 tablespoon oil until hot
    but not smoking. Add the carrots and onion and cook, stirring occasionally,
@@ -35,3 +35,5 @@
    salt and pepper.
 7. Serve the quinoa topped with the chickpea mixture and yogurt dressing.
    Garnish with almond and cilantro.
+
+Serves 2
