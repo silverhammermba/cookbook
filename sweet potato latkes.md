@@ -1,3 +1,5 @@
+Adapted from [Sunbasket](http://sunbasket.com/recipe/sweet-potato-fritters-with-brussels-sprouts-salad).
+
 ## Ingredients ##
 
 * 1 pound sweet potatoes, peeled, grated, rinsed, and dried

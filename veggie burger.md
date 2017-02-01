@@ -1,3 +1,5 @@
+Adapted from [Sunbasket](https://www.sunbasket.com/recipe/hodo-soy-tofu-burgers-with-sweet-chile-mayonnaise).
+
 ## Ingredients ##
 
 * 1 tablespoon black sesame seeds

@@ -1,3 +1,5 @@
+Adapted from [Sunbasket](http://sunbasket.com/recipe/couscous-stuffed-squash-with-arugula-orange-salad).
+
 ## Ingredients ##
 
 * 1 acorn squash, halved, seeded

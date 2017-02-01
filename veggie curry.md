@@ -1,3 +1,5 @@
+Adapted from [Sunbasket](http://sunbasket.com/recipe/braised-chickpeas-and-carrots-with-quinoa-and-yogurt).
+
 ## Ingredients ##
 
 * ½ cup rainbow quinoa

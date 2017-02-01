@@ -1,3 +1,5 @@
+Adapted from [Sunbasket](http://sunbasket.com/recipe/turkish-red-lentil-soup-with-naan-croutons).
+
 ## Ingredients ##
 
 * 1 piece naan, torn into 1-inch pieces
