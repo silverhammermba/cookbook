@@ -1,4 +1,4 @@
-Thanks to Chef John.
+Thanks to [Chef John](http://foodwishes.blogspot.com/2007/09/french-toast-fancy-brunch-restaurant.html).
 
 == Ingredients ==
 
