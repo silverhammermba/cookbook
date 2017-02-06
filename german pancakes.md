@@ -1,5 +1,4 @@
-This is my old roommate's family recipe for German pancakes (similar to crepes)
-I've ever had!
+This is my old roommate's family recipe for German pancakes (similar to crepes).
 
 Ingredients
 ===========
