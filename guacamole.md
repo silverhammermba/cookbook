@@ -25,6 +25,8 @@ Makes 1qt of gaucamole.
 
 ## Molcajete version ##
 
+From [Food Wishes](http://foodwishes.blogspot.com/2016/09/classic-guacamole-how-to-make-guacamole.html).
+
 ### Ingredients ###
 
 * 2 tbsp minced serrano pepper (or 3 tbsp jalapeno)
