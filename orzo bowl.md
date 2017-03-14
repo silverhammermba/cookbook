@@ -1,3 +1,5 @@
+Adapted from [Sun Basket](http://sunbasket.com/recipe/orzo-with-swiss-chard-and-olive-almond-relish).
+
 ## Ingredients ##
 
 * ¾ cup uncooked quinoa orzo
