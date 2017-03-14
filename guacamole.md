@@ -1,6 +1,6 @@
-I just started using a molcajete and so got a new recipe. The only different
-ingredient is the spices, so I'd like to experiment and see how they affect the
-flavor. Both versions taste great.
+I just started using a molcajete and so got a new recipe. An obvious difference
+is the spices, so I'd like to experiment and see how they affect the flavor.
+Both versions taste great.
 
 ## Non-molcajete version ##
 
@@ -29,7 +29,7 @@ From [Food Wishes](http://foodwishes.blogspot.com/2016/09/classic-guacamole-how-
 
 ### Ingredients ###
 
-* 2 tbsp minced serrano pepper (or 3 tbsp jalapeno)
+* 2 tbsp minced serrano pepper (or 3 tbsp jalapeno) **not** seeded
 * 1/3 cup diced white onion
 * 1/2 cup chopped cilantro
 * kosher salt
