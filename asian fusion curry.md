@@ -14,7 +14,7 @@ Adapted from
 * ½ cup coconut milk
 * ½ cup diced tomatoes
 * 1 lime, juiced
-* basil for garnish
+* chopped basil for garnish
 * vegetable oil
 
 ## Directions ##
@@ -30,7 +30,7 @@ Adapted from
    potatoes are tender and the chard leaves are wilted.
 6. Remove from the heat, stir in the lime juice and lentils.
 
-Makes 2 big portions. Serve over rice or with naan.
+Makes 2 big portions. Garnish with basil and serve over rice or with naan.
 
 ## TODO ##
 
