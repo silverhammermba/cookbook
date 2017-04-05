@@ -50,3 +50,5 @@ Adapted from [Sunbasket](http://sunbasket.com/recipe/chipotle-chilaquiles-with-b
 
 Serve in bowls topped with an egg. Garnish with the radishes, avocado, cilantro,
 queso fresco, and remaining 2 tablespoons onion.
+
+Serves 2.

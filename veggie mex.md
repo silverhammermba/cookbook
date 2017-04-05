@@ -1,5 +1,5 @@
 These are two vegetarian Mexican-style fillings. They could work in tacos,
-fajitas, or quesadillas.
+fajitas, or quesadillas. Both recipes make enough filling for 2 servings.
 
 Adapted from [Sunbasket](http://sunbasket.com/recipe/tacos-with-lime-roasted-cauliflower-and-black-beans).
 
