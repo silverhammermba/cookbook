@@ -4,6 +4,8 @@ Simple salmon fillets.
 
 * salmon fillet
 * olive oil
+* salt
+* pepper
 
 ## Directions ##
 
