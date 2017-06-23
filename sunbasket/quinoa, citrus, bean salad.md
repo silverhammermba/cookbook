@@ -1,3 +1,6 @@
+From
+[Sunbasket](https://www.sunbasket.com/recipe/winter-citrus-salad-with-harissa-spiced-white-beans-and-mint).
+
 ## Ingredients ##
 
 * ½ cup rainbow quinoa, rinsed
