@@ -3,7 +3,7 @@ quart cheap rye" along with the port.
 
 Ingredients
 -----------
-* 3 liters ruby port
+* 3 liters port (ruby or tawny)
 * 3 sticks cinammon
 * 20 cloves
 * 1 piece ginger, peeled
