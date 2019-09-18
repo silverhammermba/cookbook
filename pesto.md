@@ -1,6 +1,6 @@
 Ingredients
 -----------
-* 2/3 cup basil leaves (or whatever)
+* 2/3 cup basil leaves (about 0.75 oz?)
 * 1/3 cup olive oil
 * 1/3 cup parmesan cheese
 * 2 tbsp pine nuts or walnuts
