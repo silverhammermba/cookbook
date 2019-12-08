@@ -37,7 +37,7 @@ We found a different, more precise recipe. Haven't tried it yet
 * 1 tsp salt
 * lemon & orange peel
 
-* 4 tbsp cocoa
+* 4 tbsp cocoa (optionally replace 3tsbp flour with 3 more tbsp cocoa)
 * 4 tbsp sugar
 
 * 1 egg yolk
