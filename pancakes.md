@@ -1,19 +1,22 @@
 ## Ingredients ##
 
-* 1 1/2 cups all-purpose flour
-* 3 1/2 tsp baking powder
-* 1 tsp salt
-* 1 tbsp sugar
-* 1 1/4 cup milk (room temp.)
-* 1 egg (room temp.)
-* 3 tbsp butter, melted
+* 2 cups all-purpose flour
+* 3 tablespoons sugar
+* 1 ½ teaspoons baking powder
+* 1 ½ teaspoons baking soda
+* 1 ¼ teaspoons kosher salt
+* 2 ½ cups buttermilk or whey
+* 2 large eggs, lightly beaten
+* 3 tablespoons unsalted butter, melted
+* Vegetable, canola or coconut oil for the pan
 
 ## Directions ##
 
-1. Sift flour
-2. Combine all dry ingredients and sift again
-3. Make a well in the dry ingredients and add the wet ones, mix until smooth
-4. On a griddle or pan at medium high heat, cook batter in 1/4 cup portions
-   until browned on both sides
+1. Sift dry ingredients into a bowl. Form a large well in the center
+2. Add wet ingredients in the well
+3. Whisk together until mixed but still lumpy
+4. Heat skillet (preferably cast iron) on medium-low for five minutes
+5. Spray skillet with cooking spray, ladel about 1/3 cup per pancake. Cook 2-4
+   minutes per side.
 
 Makes 8-10 pancakes.
