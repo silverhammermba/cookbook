@@ -25,4 +25,4 @@ Recipe
 7. Drop dough in flattened balls using a cookie dough scoop onto ungreased pans and bake for 11 minutes
 8. Let sit 2 minutes before moving cookies to cooling rack
 
-Makes 7 dozen cookies.
+Makes 60 cookies.
