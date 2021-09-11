@@ -14,7 +14,7 @@ Ingredients
 * 1/4 teaspoon nutmeg
 * 1/2 cup chopped pecans/walnuts
 * 3 cups grated (large) carrots
-* 8 oz can crushed pineapple
+* 8 oz can crushed pineapple, drained
 * 1/2 cup applesauce
 
 * 1/2 cup butter, softened
@@ -29,7 +29,7 @@ Recipe
    pan or two 9 inch circular cake pans.
 2. In a large bowl, beat together eggs, oil, sugar and vanilla. Mix in flour,
    baking soda, baking powder, salt, nutmeg, and cinnamon. Stir in carrots,
-   pineapple, and applesauce. Fold in pecans. Pour into prepared pan(s).
+   pineapple, nuts, and applesauce. Fold in pecans. Pour into prepared pan(s).
 3. Bake in the preheated oven for 35 to 45 minutes, or until a toothpick
    inserted into the center of the cake comes out clean. Let cool in pan for 10
    minutes, then turn out onto a wire rack and cool completely.
