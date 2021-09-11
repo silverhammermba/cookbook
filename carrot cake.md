@@ -14,7 +14,7 @@ Ingredients
 * 1/4 teaspoon nutmeg
 * 1/2 cup chopped pecans/walnuts
 * 3 cups grated (large) carrots
-* 8 oz can crushed pineapple, drained
+* 8 oz can crushed pineapple, thoroughly drained
 * 1/2 cup applesauce
 
 * 1/2 cup butter, softened
@@ -36,3 +36,5 @@ Recipe
 4. To Make Frosting: In a medium bowl, combine butter, cream cheese,
    confectioners' sugar and vanilla. Beat until the mixture is smooth and creamy.
    Stir in chopped pecans. Chill in the fridge before frosting the cooled cake.
+   
+Yields two 9" cake rounds or about 26 cupcakes.
